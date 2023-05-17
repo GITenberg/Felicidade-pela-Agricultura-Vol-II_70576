@@ -1,0 +1,34 @@
+_repo: Felicidade-pela-Agricultura-Vol-II_70576
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castilho, Antonio Feliciano de
+    aliases:
+    - Castilho, António Feliciano de
+    - De Castilho, Antonio Feliciano
+    birthdate: 1800
+    deathdate: 1875
+    gutenberg_agent_id: '8440'
+    url: http://www.gutenberg.org/2009/agents/8440
+    wikipedia: https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Feliciano_de_Castilho
+description: ''
+gutenberg_issued: '2023-04-17'
+identifiers:
+  gutenberg: '70576'
+language: pt
+pgterms:marc905: 20110829135557castilho
+pgterms:marc906: '1903'
+pgterms:marc907: PT
+production_note: Alberto Manuel Brandão Simões and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by Biodiversity Heritage Library.)
+publication_note: '  $aPortugal :$bEmp. da História de Portugal, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life'
+- !lcc 'PQ'
+- GITenberg
+title: Felicidade pela Agricultura (Vol. II)
+url: http://www.gutenberg.org/ebooks/70576
