@@ -1,5 +1,8 @@
 _repo: Felicidade-pela-Agricultura-Vol-II_70576
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70576-h/images/cover.jpg
 creator:
   author:
     agent_name: Castilho, Antonio Feliciano de
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8440
     wikipedia: https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Feliciano_de_Castilho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70576#Felicidade-pela-Agricultura-Vol-II
 gutenberg_issued: '2023-04-17'
 identifiers:
   gutenberg: '70576'
